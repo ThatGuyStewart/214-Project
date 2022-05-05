@@ -1,0 +1,323 @@
+/* screen - sign-up */
+
+.sign-up {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.sign-up .rectangle-40-C61RwL {
+  background-color: var(--brick-red);
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.sign-up .logo07-1-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 152px;
+}
+
+.sign-up .rectangle-51-C61RwL {
+  background-color: var(--white);
+  height: 137px;
+  left: 1180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -6px;
+  width: 260px;
+}
+
+.sign-up .sign-up-personal-inf-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 186px;
+  width: 1033px;
+}
+
+.sign-up .span0-wHPiIp {
+}
+
+.sign-up .span1-wHPiIp {
+}
+
+.sign-up .span2-wHPiIp {
+}
+
+.sign-up .span3-wHPiIp {
+}
+
+.sign-up .span4-wHPiIp {
+}
+
+.sign-up .span5-wHPiIp {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sign-up .span6-wHPiIp {
+}
+
+.sign-up .span7-wHPiIp {
+}
+
+.sign-up .span8-wHPiIp {
+}
+
+.sign-up .span9-wHPiIp {
+}
+
+.sign-up .create-account-button-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 1081px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 870px;
+  width: 238px;
+}
+
+.sign-up .rectangle-4-Xdmkcj {
+  background-color: #c3273fa1;
+  height: 59px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 238px;
+}
+
+.sign-up .create-account-Xdmkcj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 250px;
+}
+
+.sign-up .rectangle-9-C61RwL {
+  background-color: var(--white);
+  height: 44px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 530px;
+  width: 362px;
+}
+
+.sign-up .rectangle-10-C61RwL {
+  background-color: var(--white);
+  height: 42px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 791px;
+  width: 362px;
+}
+
+.sign-up .rectangle-52-C61RwL {
+  background-color: var(--white);
+  height: 42px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 887px;
+  width: 362px;
+}
+
+.sign-up .rectangle-11-C61RwL {
+  background-color: var(--white);
+  height: 41px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 694px;
+  width: 516px;
+}
+
+.sign-up .rectangle-5-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 338px;
+  width: 302px;
+}
+
+.sign-up .rectangle-7-C61RwL {
+  background-color: var(--white);
+  height: 45px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 431px;
+  width: 362px;
+}
+
+.sign-up .rectangle-8-C61RwL {
+  background-color: var(--white);
+  height: 45px;
+  left: 573px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 431px;
+  width: 392px;
+}
+
+.sign-up .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 186px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 113px;
+}
+
+.sign-up .home-FtQxcm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 113px;
+}
+
+.sign-up .destinations-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 488px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 214px;
+}
+
+.sign-up .destinations-3k5Kzh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 214px;
+}
+
+.sign-up .plan-trip-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 49px;
+  left: 311px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 162px;
+}
+
+.sign-up .plan-trip-uWBWw2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 162px;
+}
+
+.sign-up .help-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: 717px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 107px;
+}
+
+.sign-up .help-ZXw1xZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 107px;
+}
+
+.sign-up .login-sign-up-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1199px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 223px;
+}
+
+.sign-up .login-sign-up-X23gJX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 223px;
+}
