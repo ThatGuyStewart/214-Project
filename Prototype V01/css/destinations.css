@@ -1,0 +1,623 @@
+/* screen - destinations */
+
+.destinations {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.destinations .rectangle-40-C61RwL {
+  background-color: var(--brick-red);
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.destinations .logo07-1-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 152px;
+}
+
+.destinations .destinations-where-would-you-like-to-go-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 183px;
+  width: 553px;
+}
+
+.destinations .span0-gfQSfI {
+}
+
+.destinations .span1-gfQSfI {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.destinations .span2-gfQSfI {
+}
+
+.destinations .span3-gfQSfI {
+}
+
+.destinations .barcelona-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 450px;
+  width: 154px;
+}
+
+.destinations .rectangle-51-C61RwL {
+  background-color: var(--white);
+  height: 137px;
+  left: 464px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -7px;
+  width: 218px;
+}
+
+.destinations .rectangle-3-C61RwL {
+  background-color: var(--white);
+  height: 41px;
+  left: 321px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 480px;
+  width: 92px;
+}
+
+.destinations .rectangle-15-C61RwL {
+  background-color: var(--white);
+  height: 125px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 439px;
+  width: 1310px;
+}
+
+.destinations .economy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 856px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 493px;
+  width: auto;
+}
+
+.destinations .rectangle-17-C61RwL {
+  background-color: var(--white);
+  height: 125px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 688px;
+  width: 1310px;
+}
+
+.destinations .economy-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 742px;
+  width: auto;
+}
+
+.destinations .layover-in-singapore-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 474px;
+  width: 147px;
+}
+
+.destinations .rectangle-16-C61RwL {
+  background-color: var(--white);
+  height: 124px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 564px;
+  width: 1310px;
+}
+
+.destinations .rectangle-58-C61RwL {
+  background-color: var(--white);
+  height: 124px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 564px;
+  width: 1310px;
+}
+
+.destinations .rectangle-59-C61RwL {
+  background-color: var(--white);
+  height: 124px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 564px;
+  width: 1310px;
+}
+
+.destinations .rectangle-60-C61RwL {
+  background-color: var(--white);
+  height: 124px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 564px;
+  width: 1310px;
+}
+
+.destinations .economy-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 855px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 611px;
+  width: auto;
+}
+
+.destinations .roundtrip-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 671px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 741px;
+  width: auto;
+}
+
+.destinations .roundtrip-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 671px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 609px;
+  width: auto;
+}
+
+.destinations .layover-in-singapore-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 597px;
+  width: 147px;
+}
+
+.destinations .rectangle-56-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 92px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 599px;
+  width: 60px;
+}
+
+.destinations .x979-aud-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1251px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 614px;
+  width: 91px;
+}
+
+.destinations .x979-aud-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1251px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 747px;
+  width: 91px;
+}
+
+.destinations .x979-aud-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1251px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  width: 91px;
+}
+
+.destinations .layover-in-singapore-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  width: 147px;
+}
+
+.destinations .barcelona-spain-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 182px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  width: 244px;
+}
+
+.destinations .barcelona-spain-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 182px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 611px;
+  width: 244px;
+}
+
+.destinations .barcelona-spain-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 182px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 736px;
+  width: 244px;
+}
+
+.destinations .rectangle-20-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 92px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 476px;
+  width: 60px;
+}
+
+.destinations .rectangle-57-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 92px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 725px;
+  width: 60px;
+}
+
+.destinations .sat-23-apr-sat-30-apr-2022-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 395px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 497px;
+  width: 325px;
+}
+
+.destinations .roundtrip-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 671px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 495px;
+  width: auto;
+}
+
+.destinations .mon-21-may-6-jun-2022-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 395px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 741px;
+  width: 306px;
+}
+
+.destinations .fri-1-jul-tue-11-sep-2022-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 395px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 609px;
+  width: 302px;
+}
+
+.destinations .load-more-flights-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 657px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 877px;
+  width: 161px;
+}
+
+.destinations .rectangle-17-VMr6Om {
+  background-color: #c3273fc4;
+  height: 48px;
+  left: 516px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 923px;
+  width: 389px;
+}
+
+.destinations .book-this-flight-C61RwL {
+  background-color: transparent;
+  color: #fdfdfd;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 639px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 934px;
+  width: 338px;
+}
+
+.destinations .destination-depart-b-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 395px;
+  width: 1312px;
+}
+
+.destinations .rectangle-66-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 299px;
+  width: 500px;
+}
+
+.destinations .icon-search-C61RwL {
+  background-color: transparent;
+  height: 26px;
+  left: 74px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 305px;
+  width: 27px;
+}
+
+.destinations .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 47px;
+  left: 168px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 113px;
+}
+
+.destinations .home-FtQxcm {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 113px;
+}
+
+.destinations .destinations-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 470px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 214px;
+}
+
+.destinations .destinations-3k5Kzh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 214px;
+}
+
+.destinations .plan-trip-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 49px;
+  left: 293px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 162px;
+}
+
+.destinations .plan-trip-uWBWw2 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 162px;
+}
+
+.destinations .help-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  left: 706px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 107px;
+}
+
+.destinations .help-ZXw1xZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 107px;
+}
+
+.destinations .login-sign-up-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 45px;
+  left: 1174px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 223px;
+}
+
+.destinations .login-sign-up-X23gJX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0px;
+  width: 223px;
+}
